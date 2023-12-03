@@ -1,4 +1,4 @@
-# Terraform Basic Landing Zone Setup
+# Terraform 3-Tier Application Basic Landing Zone Setup
 
 This Terraform project is designed to create a basic landing zone setup for 3 tier application. The landing zone includes essential AWS resources configured to support common infrastructure needs, such as networking, compute, and security.
 
