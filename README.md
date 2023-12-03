@@ -20,8 +20,8 @@ Before you begin, ensure you have the following tools installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/amyzanje/3_tier_application_basic_landing_zone_tf.git
+    cd 3_tier_application_basic_landing_zone_tf
     ```
 
 2. Initialize Terraform:
@@ -30,7 +30,7 @@ Before you begin, ensure you have the following tools installed:
     terraform init
     ```
 
-3. Review and adjust configuration in `main.tf` and other relevant files.
+3. Review and adjust configuration in `variable.tf`.
 
 4. Apply the Terraform configuration:
 
