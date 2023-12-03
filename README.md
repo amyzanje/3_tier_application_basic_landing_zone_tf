@@ -4,7 +4,7 @@ This Terraform project is designed to create a basic landing zone setup for 3 ti
 
 # Basic Landing Zone Architecture
 
-
+(./Basic_Landing_Zone.jpg)
 
 ## Prerequisites
 
